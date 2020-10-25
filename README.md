@@ -15,5 +15,4 @@ statistic <- summarize_data(
 make_chart(statistic)
 ```
 
-
-
+![data model](https://raw.githubusercontent.com/r-transit/nhts-examples/main/data_model.png)
